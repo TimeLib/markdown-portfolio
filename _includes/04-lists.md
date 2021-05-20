@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# Here is a list of misc items.
+- Starships
+- Space
+- Enterprise
+- Star Trek
